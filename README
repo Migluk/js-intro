@@ -1,0 +1,41 @@
+#Markdown (su klaida)
+# Markdown (be klaidos)
+# a
+## a
+### a
+#### a
+##### a
+###### a
+
+max gali uti tik iki 6 #
+
+Failo pletinys; .md
+
+Issamesne info: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+## Sarasas
+
+- geltona
+    - melyna
+    - zalia
+        - raudona
+        - rozine
+
+
+
+## Bold ir Italic
+
+**Labas** rytas!
+
+Labas _rytas_!
+
+## Nuorodos
+
+GitHub: [mano profilis](nuoroda).
+
+## Nuotraukos
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
