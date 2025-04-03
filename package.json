@@ -4,6 +4,9 @@
   "description": "npm kartojimas",
   "main": "index.js",
   "scripts": {
+    "ma": "node --watch ./js/13-method-array.js",
+    "mn": "node --watch ./js/12-method-number.js",
+    "55": "node --watch ./task/funkcijos55.js",
     "validname": "node --watch ./task/valid-name.js",
     "fd": "node --watch ./task/funkcijosNd.js",
     "ff": "node --watch ./task/funkcijosFor.js",
