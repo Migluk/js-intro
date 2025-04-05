@@ -21,7 +21,6 @@ function raidziuSkaiciuokle (zodis, raide )
 
 
 console.log(raidziuSkaiciuokle (tekstas, 'a'));
-
 console.log('--------');
 
 const balses = ['a', 'e', 'i', 'o', 'u']

@@ -19,12 +19,3 @@ function countNumbers(array) {
   const list = [1, 1, 2, 3, 3, 3, 4];
   countNumbers(list);
 
-  // 1 uzduotis
-const base = ['Vilnius', ]
-
-  for (let i = 0; i < base.length; i++) {
-    const miestas = base[i];
-    const atstumas = base[i + 1];
-  }
-  console.log();
-  
