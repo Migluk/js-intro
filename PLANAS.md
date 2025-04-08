@@ -11,21 +11,21 @@
     
 - funkcijos (perpanaudojamas kodo blokas/logika):
     - ~~"paprasta"~~
-    - rodykline
+    - ~~rodykline~~
     - metoodai:
-        - Math biblioteka
-        - string methods
-        - number methods
+        - ~~Math biblioteka~~
+        - ~~string methods~~
+        - ~~number methods~~
         - array methods
         - object methods
         - ?
 - palyginimas:
     - ~~if~~
-    - ternary
+    - ~~ternary~~
     - switch
 - ciklas:
     - ~~for~~
-    - while
-    - for-of
+    - ~~while~~
+    - ~~for-of~~
     - for-in
 - ivykiu stebejimas (event listeners)

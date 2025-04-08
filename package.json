@@ -4,6 +4,10 @@
   "description": "npm kartojimas",
   "main": "index.js",
   "scripts": {
+    "for-in": "node --watch ./js/18-for-in.js",
+    "while": "node --watch ./js/17-while.js",
+    "for-of": "node --watch ./js/16-for-of.js",
+    "ternary": "node --watch ./js/15-ternary.js",
     "fancy": "node --watch ./task/fancy-math.js",
     "names": "node --watch ./task/names-split-join.js",
     "arrow": "node --watch ./js/14-arrow.js",
