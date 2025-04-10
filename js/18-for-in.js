@@ -3,6 +3,9 @@ const person = {
     age: 22,
     isMarried: true,
 };
+
+// 1)
+// [name, age, isMarried]
 const keys = Object.keys(person);
 for (const key of keys) {
     console.log(person[key]);

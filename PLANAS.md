@@ -16,16 +16,15 @@
         - ~~Math biblioteka~~
         - ~~string methods~~
         - ~~number methods~~
-        - array methods
-        - object methods
-        - ?
+        - ~~array methods~~
+        - ~~object methods~~
 - palyginimas:
     - ~~if~~
     - ~~ternary~~
-    - switch
+    - ~~switch~~ (if alternatyvas)
 - ciklas:
     - ~~for~~
     - ~~while~~
     - ~~for-of~~
-    - for-in
+    - ~~for-in~~
 - ivykiu stebejimas (event listeners)
